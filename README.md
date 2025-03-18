@@ -1,2 +1,2 @@
-# SQLexamples
-examples of my experience with SQL
+# Rockbuster Stealth LLC
+SQL analysis project
